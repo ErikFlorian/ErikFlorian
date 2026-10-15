@@ -24,9 +24,9 @@ A VPS for my services, an old ThinkPad running Debian as a home server, Pi-hole 
 ### Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,kotlin,cpp,java,js,html,css,lua,bash,linux,arch,raspberrypi,androidstudio,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,kotlin,cpp,java,js,html,css,lua,bash,linux,arch,raspberrypi,androidstudio,git&theme=light">
-  <img alt="Python, Kotlin, C++, Java, JavaScript, HTML, CSS, Lua, Bash, Linux, Arch, Raspberry Pi, Android Studio, Git" src="https://skillicons.dev/icons?i=python,kotlin,cpp,java,js,html,css,lua,bash,linux,arch,raspberrypi,androidstudio,git&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ckotlin%2Ccpp%2Cjava%2Cjs%2Chtml%2Ccss%2Clua%2Cbash%2Clinux%2Carch%2Craspberrypi%2Candroidstudio%2Cgit&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Ckotlin%2Ccpp%2Cjava%2Cjs%2Chtml%2Ccss%2Clua%2Cbash%2Clinux%2Carch%2Craspberrypi%2Candroidstudio%2Cgit&theme=light">
+  <img alt="Python, Kotlin, C++, Java, JavaScript, HTML, CSS, Lua, Bash, Linux, Arch, Raspberry Pi, Android Studio, Git" src="https://skillicons.dev/icons?i=python%2Ckotlin%2Ccpp%2Cjava%2Cjs%2Chtml%2Ccss%2Clua%2Cbash%2Clinux%2Carch%2Craspberrypi%2Candroidstudio%2Cgit&theme=dark">
 </picture>
 
 ---
